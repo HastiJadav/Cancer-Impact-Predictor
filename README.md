@@ -19,11 +19,11 @@ OncoPredict AI aims to provide insights into cancer-related deaths using machine
     Upper outliers replaced with the upper fence
 * Data was split into 80% training and 20% testing.
 * Linear Regression assumptions were checked:
-    Linearity
-    No autocorrelation
-    Homoscedasticity
-    Normality of errors
-    Multicollinearity
+    Linearity,
+    No autocorrelation,
+    Homoscedasticity,
+    Normality of errors,
+    Multicollinearity.
 
 ## 📈 Model Performance
 ![image](https://github.com/user-attachments/assets/cb9bbbb3-ee9a-44a1-9459-63ea03ae8f77)
